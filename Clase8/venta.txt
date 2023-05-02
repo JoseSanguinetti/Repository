@@ -1,0 +1,5 @@
+jabon en polvo,40,1
+esponjas,10,3
+chocolates,100,2
+caramelos,20,5
+chicles,25,4

@@ -1,0 +1,51 @@
+Asignatura				Correlatividad
+Inglés Transversal Nivel I		---	
+Inglés Transversal Nivel II		ingles transversal nivel I	
+Inglés Transversal Nivel III		ingles transversal nivel II	
+Inglés Transversal Nivel IV		ingles transversal nivel III	
+Computación Transversal Nivel I		---	
+Computación Transversal Nivel II	Computación Transversal Nivel I	
+
+Análisis Matemático I			---	
+Elementos de Programación		---	
+Sistemas de Representación		---	
+Tecnología, Ingeniería y Sociedad	---	
+Álgebra y Geometría Analítica I		---	
+Matemática Discreta			---	
+Química General				---	
+Fundamentos de TIC's			---	
+Física I				Análisis Matemático I	
+Álgebra y Geometría analítica II	Álgebra y Geometría Analítica I	
+Análisis Matemático II			Análisis Matemático I	
+Física II				Física I	
+Requerimientos para la Ingeniería	Fundamentos de TIC's	
+Arquitectura de Computadoras		Matemática Discreta / Fundamentos de TIC's	
+Programación				Elementos de Programación / Matemática Discreta	
+Probabilidad y Estadística		Análisis Matemático II	
+Auditoría y Seguridad Informática	Tecnología, Ingeniería y Sociedad / Arquitectura de Computadoras	
+Programación Avanzada 			Análisis Matemático I / Programación / Incluye TCP
+Base de Datos				Matemática Discreta / Análisis Matemático II	
+Sistemas Operativos			Arquitectura de Computadoras / Programación / Incluye TCP	
+Análisis de Sistemas 			Matemática Discreta / Requerimientos para la Ingeniería	
+Cálculo Numérico			Álgebra y Geometría analítica II / Análisis Matemático II
+Ingeniería de Requerimientos		analisis de sistemas
+Comunicación de Datos			arquitectura de computadoras / sistemas operativos	
+Diseño de Sistemas / Incluye TCP	analisis de sistemas	
+Análisis de Software			programacion avanzada	
+Redes de Computadoras			fisica I / comunicacion de datos
+Sistemas Operativos Avanzados		programacion avanzada / sistemas operativos	
+Lenguajes y Compiladores		programacion / sistemas operativos
+Gestión Organizacional			tecnologia, ingenieria y sociedad / analisis de sistemas	
+Ingeniería de Software / Incluye TCP	sistemas de representacion / quimica general / fisica II / arquitectura de computadoras / probabilidad y estadistica / sistemas operativos / calculo numerico / diseño de sistemas	
+Elementos de Inteligencia Artificial	quimica general / Álgebra y Geometría analítica II / fisica II / probabilidad y estadistica / sistemas operativos avanzados	
+Electiva I				sistemas de representacion / quimica general / fisica II / probabilidad y estadistica / sistemas operativos / calculo numerico / redes de computadoras	
+Automatas y Lenguajes Formales		sistemas de representacion / quimica general / Álgebra y Geometría analítica II / fisica II / probabilidad y estadistica / calculo numerico / redes de computadoras	
+Electiva II				sistemas de representacion / quimica general / fisica II / probabilidad y estadistica / sistemas operativos/ calculo numerico / redes de computadoras	
+Electiva III				sistemas de representacion / quimica general / fisica II /  probabilidad y estadistica / sistemas operativos/ calculo numerico / redes de computadoras	
+Proyecto de fin de carrera		Sistemas Operativos Avanzados / Lenguajes y Compiladores / Gestión Organizacional / Ingeniería de Software / Elementos de Inteligencia Artificial / Electiva I / Automatas y Lenguajes Formales / Electiva II / Electiva III / Práctica Profesional Supervisada / fisica II
+Práctica Profesional Supervisada	ingenieria de requerimientos / comunicacion de datos / diseño de sistemas / analisis de software / gestion organizacional
+
+
+
+
+

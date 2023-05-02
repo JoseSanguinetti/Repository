@@ -1,0 +1,9 @@
+*tiene asterisco 1
+no tiene asterisco
+*tiene asterisco 2
+no tiene asterisco
+*tiene asterisco 3
+no tiene asterisco
+no tiene asterisco
+no tiene asterisco
+*tiene asterisco 4
